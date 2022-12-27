@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
@@ -69,11 +67,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iAmCodehead&layout=compact&theme=vision-friendly-dark)](https://github.com/iAmCodehead/github-readme-stats)
 
 ---
-
-### :writing_hand: Blog Posts :
-
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...myself! lol
 - 🌱 I’m currently learning ...Go Lang
