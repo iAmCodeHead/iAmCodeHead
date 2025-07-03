@@ -25,11 +25,11 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Malta.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m a FullStack Software Engineer, building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I read tech/general articles, play video games and explore business opportunities outside tech.
+- :zap: In my free time, I read tech/general articles, fictional books, and explore business opportunities outside tech.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samsonakande)
 
@@ -64,12 +64,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iAmCodehead&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iAmCodehead&layout=compact&theme=vision-friendly-dark)](https://github.com/iAmCodehead/github-readme-stats)
+<-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iAmCodehead&layout=compact&theme=vision-friendly-dark)](https://github.com/iAmCodehead/github-readme-stats) -->
 
 ---
 
 - 🔭 I’m currently working on ...myself! lol
-- 🌱 I’m currently learning ...Go Lang
-- 👯 I’m looking to collaborate on building products that positively impacts the world
+- 🌱 I try to learn at least one new thing every day. You should try it too!
+- 👯 I’m looking to collaborate on building products that positively impact the world
 - 📫 How to reach me: akandesamson12@gmail.com
 
